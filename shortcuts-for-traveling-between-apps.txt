@@ -1,0 +1,8 @@
+Alt + Tab: Switch between open windows and apps.
+Windows key + Tab: Open Task View, which displays all open windows and virtual desktops.
+Windows key + D: Show desktop and minimize all windows.
+Windows key + number (1-9): Open the app pinned to the taskbar in the position indicated by the number.
+Windows key + Ctrl + number (1-9): Open the app pinned to the taskbar in the position indicated by the number as an administrator.
+Windows key + T: Cycle through apps on the taskbar without opening them.
+Windows key + E: Open File Explorer.
+Windows key + L: Lock your PC or switch accounts.
